@@ -1,4 +1,3 @@
-/* إعدادات المتغيرات والألوان العامة */
 :root {
     --primary-color: #4f46e5; /* البنفسجي العصري */
     --primary-hover: #4338ca;
@@ -10,7 +9,6 @@
     --transition: all 0.3s ease;
 }
 
-/* التصفير الافتراضي وتحسين الخطوط */
 * {
     margin: 0;
     padding: 0;
@@ -25,14 +23,13 @@ body {
     line-height: 1.6;
 }
 
-/* تنسيق الحاوية الرئيسية لتوسيط العناصر */
 .container {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
 }
 
-/* أزرار مخصصة قابلة لإعادة الاستخدام */
+/* أزرار م */
 .btn {
     display: inline-block;
     padding: 12px 30px;
@@ -302,7 +299,7 @@ body {
     box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
 }
 
-/* 5. تنسيق الـ Footer */
+/* 5تنسFooter */
 .main-footer {
     background-color: var(--dark-bg);
     color: var(--white);
