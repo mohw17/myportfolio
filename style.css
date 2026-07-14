@@ -328,13 +328,14 @@ body {
 .social-links a:hover {
     color: var(--primary-color);
     transform: translateY(-3px);
+    
 }
 
 .heart {
     color: #ef4444;
 }
-
-/* استعلامات الوسائط المتجاوبة (Responsive Design) للموبايل */
+/* استعلامات الوسائط اليمتجاوبة (Responsive Design) للموبايل */
+/* استعلامات الوسائط اليمتجاوبة (Responsive Design) للموبايل */
 @media (max-width: 768px) {
     .nav-container {
         flex-direction: column;
